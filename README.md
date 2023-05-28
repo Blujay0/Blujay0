@@ -1,4 +1,4 @@
-### About Me 
+## About Me 
 
 ### <a>Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=https://www.linkedin.com/in/jay-y-lim/ target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
