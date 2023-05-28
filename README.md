@@ -3,7 +3,7 @@
 ### <a>Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=https://www.linkedin.com/in/jay-y-lim/ target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### 👓 Software Engineer | Web Developer<br>
-#### 💼 Open to new employment opportunities!<br>
+<!-- #### 💼 Open to new employment opportunities!<br> -->
 #### 💻 Frequently working on Open Source projects<br>
 #### ☑️ Feel free to connect with me on LinkedIn!<br>
 
