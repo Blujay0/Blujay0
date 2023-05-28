@@ -1,4 +1,6 @@
-# About Me
+# About Me 
+
+[LinkedIn](https://www.linkedin.com/in/jay-y-lim/)
 
 Software Engineer | Web Developer
 
