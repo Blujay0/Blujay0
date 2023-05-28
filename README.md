@@ -1,10 +1,10 @@
-# About Me 
+### About Me 
 
-[LinkedIn](https://www.linkedin.com/in/jay-y-lim/)
+[#0A66C2](https://www.linkedin.com/in/jay-y-lim/)
 
 Software Engineer | Web Developer
 
-# Skills
+### Skills
 * HTML5
 * CSS3
 * JAVASCRIPT
