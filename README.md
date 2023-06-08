@@ -4,7 +4,7 @@
 
 #### 🖱️ Software Engineer | Web Developer<br>
 <!-- #### 💼 Open to new employment opportunities!<br> -->
-#### 💻 Frequently working on Open Source projects<br>
+#### 💻 Passion for Efficient & Scalable Code<br>
 #### ☑️ Feel free to connect with me on LinkedIn!<br>
 
 ## Tech Stack
