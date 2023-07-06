@@ -2,7 +2,7 @@
 
 ### <a>Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=https://www.linkedin.com/in/jay-y-lim/ target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### 🖱️ Software Engineer | Web Developer<br>
+#### 🖱️ Software Engineer | Fullstack Web Developer<br>
 <!-- #### 💼 Open to new employment opportunities!<br> -->
 #### 💻 Passion for Efficient & Scalable Code<br>
 #### ☑️ Feel free to connect with me on LinkedIn!<br>
